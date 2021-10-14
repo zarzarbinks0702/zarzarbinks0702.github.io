@@ -90,8 +90,9 @@ footer {
 
 footer ul {
   list-style: none;
-  display: flex;
-  justify-content: flex-start;
+  display: inline-flex;
+  justify-content: space-between;
+
 }
 
 p {
