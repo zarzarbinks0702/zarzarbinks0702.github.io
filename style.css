@@ -90,6 +90,8 @@ footer {
 
 footer ul {
   list-style: none;
+  display: flex;
+  justify-content: flex-start;
 }
 
 p {
